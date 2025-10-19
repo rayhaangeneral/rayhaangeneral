@@ -21,7 +21,8 @@ I'm a passionate AI & ML Ops student specializing in local LLM deployment and fu
 <a href="https://github.com/rayhaangeneral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayhaangeneral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/rayhaangeneral7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://youtube.com/@rayhaangeneral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rayhaangeneral?sub_confirmation=1
+" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Tech Stack
