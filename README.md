@@ -71,28 +71,11 @@ I'm a passionate AI & ML Ops student specializing in local LLM deployment and fu
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayhaangeneral&theme=tokyonight&hide_border=true)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhaangeneral&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rayhaangeneral&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
