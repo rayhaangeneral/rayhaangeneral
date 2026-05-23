@@ -10,10 +10,10 @@
 
 I'm a passionate AI & ML Ops student specializing in local LLM deployment and full-stack development. I love building intelligent applications that solve real-world problems and contributing to open source communities.
 
-- 💼 Portfolio: [rayhaan.fronxx.com](https://rayhaan.fronxx.com/)
+- 💼 Portfolio: [rayhaan.in](https://rayhaan.in/)
 - 📝 Articles & Links: [linktr.ee/rayhaangeneral](https://linktr.ee/rayhaangeneral)
 - 📄 Resume: [View My Experience](https://drive.google.com/file/d/1_Np32BNx_jCWmvY-T5hZ2dtYJc4mQ5Wf/view?usp=sharing)
-- 📧 Email: **rayhaan@fronxx.com**
+- 📧 Email: **rayhaan1350@gmail.com**
 
 ## 🌐 Connect With Me
 
